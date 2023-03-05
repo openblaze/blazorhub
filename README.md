@@ -1,5 +1,5 @@
 <p align="center"><img align="center"src="./docs/blazor-01.png" width="200"/>
-<h1>Blazor hub</h1>
+<h2 align="center">Blazor hub</h2>
 </p>
 
 Blazor hub - hub ledger of [OpenBlaze](https://github.com/openblaze/openblaze). 
